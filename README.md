@@ -1,16 +1,22 @@
-# 📊 Mi Proyecto en Jupyter
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
 
-Proyecto base para trabajar con Jupyter Notebook.
+# Jupyter
+.ipynb_checkpoints
 
-## 🚀 Cómo usarlo
+# Entornos virtuales
+venv/
+env/
+.venv/
 
-1. Clona el repositorio
-2. Instala dependencias:
+# VSCode
+.vscode/
 
-pip install -r requirements.txt
+# Archivos del sistema
+.DS_Store
+Thumbs.db
 
-3. Abre:
-notebooks/primera_clase.ipynb
-
-## ✍️ Autor
-Juan Felipe M. León
+# Logs
+*.log
